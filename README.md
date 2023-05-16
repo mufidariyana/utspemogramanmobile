@@ -6,6 +6,7 @@ Berikut tampilan untuk nama file
 <img src="./ss/s.png" style="margin: auto; width:400px;">
 
 2.	Selanjutnya dalam file lib kita membuat file baru dengan nama screens dan utilities. Didalam file screens terdapat login_screens.dart dan didalam file utilities terdapat file contstans.dart.
+>Dibawah ini merupakan kode untuk login_screens.dart:  
 ```
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
