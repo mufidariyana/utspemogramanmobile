@@ -477,4 +477,4 @@ flutter:
 ```
 
 5. Berikut adalah hasil akhir untuk tampilan halaman login
-<img src="./ssssssssssssssssss/s.png" style="margin: auto; width:400px;">
+<img src="./sssssssssssssssssss/s.png" style="margin: auto; width:400px;">
