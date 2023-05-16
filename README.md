@@ -8,10 +8,10 @@ Berikut tampilan untuk nama file
 2.	Selanjutnya dalam file lib kita membuat file baru dengan nama screens dan utilities. Didalam file screens terdapat login_screens.dart dan didalam file utilities terdapat file contstans.dart.
 >Dibawah ini merupakan kode untuk login_screens.dart:  
 Bebarapa penjelasan untuk kode dibawah ini
-1. Menggunakan ElevatedButton.styleFrom() untuk mengatur properti tombol terangkat (elevation), warna latar belakang (primary), dan bentuk tombol (shape).
-2. Menambahkan properti primary dengan nilai Colors.white untuk memberikan warna latar belakang tombol.
-3. Menambahkan properti padding untuk memberikan jarak antara teks dan tepi tombol.
-4. Menggunakan RoundedRectangleBorder untuk membuat bentuk tombol dengan sudut melengkung (border radius).
+>1. Menggunakan ElevatedButton.styleFrom() untuk mengatur properti tombol terangkat (elevation), warna latar belakang (primary), dan bentuk tombol (shape).
+>2. Menambahkan properti primary dengan nilai Colors.white untuk memberikan warna latar belakang tombol.
+>3. Menambahkan properti padding untuk memberikan jarak antara teks dan tepi tombol.
+>4. Menggunakan RoundedRectangleBorder untuk membuat bentuk tombol dengan sudut melengkung (border radius).
 ```
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
